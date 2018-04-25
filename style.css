@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: #eee;
+}
+div{
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+#div1{
+    width: 200px;
+    border: 1px solid #999;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+#div3{
+    width: 120px;
+    border: 1px solid #999;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+#div2{
+    margin: 40px 250px 0 330px;
+    border: 1px solid #999;
+}
+.div4{
+    position: relative;
+    left: -19px;
+}
